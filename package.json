@@ -7,7 +7,7 @@
   "main": "testubi.js",
   "devDependencies": {},
   "scripts": {
-    "start":"mpde testubi.js"
+    "start":"mode testubi.js"
   },
   "keywords": [],
   "author": "",
